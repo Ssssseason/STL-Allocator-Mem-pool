@@ -1,0 +1,4 @@
+﻿  testallocator.cpp
+c:\users\lsh\desktop\testallocator\testallocator\memorypool.h(113): warning C4554: “<<”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+  testallocator.vcxproj -> C:\Users\lsh\Desktop\testallocator\Debug\testallocator.exe
+  testallocator.vcxproj -> C:\Users\lsh\Desktop\testallocator\Debug\testallocator.pdb (Full PDB)

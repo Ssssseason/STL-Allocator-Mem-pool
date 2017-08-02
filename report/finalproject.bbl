@@ -1,0 +1,11 @@
+\begin{thebibliography}{1}
+
+\bibitem{12}
+Allocator (c++) https://en.wikipedia.org/wiki/allocator_(c++).
+
+\bibitem{侯捷2002SGI}
+侯捷.
+\newblock {\em SGI STL源码剖析}.
+\newblock 华中科技大学出版社, 2002.
+
+\end{thebibliography}

@@ -1,0 +1,9 @@
+﻿  testallocator.cpp
+c:\w\oop\finalproject\mytest\testallocator\memorypool.h(114): warning C4554: “<<”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+  正在生成代码
+  1 of 195 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  testallocator.vcxproj -> C:\w\oop\finalproject\myTest\Release\testallocator.exe
+  testallocator.vcxproj -> C:\w\oop\finalproject\myTest\Release\testallocator.pdb (Full PDB)
