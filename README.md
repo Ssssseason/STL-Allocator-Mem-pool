@@ -1,6 +1,5 @@
 # STL Allocator + Mem pool 
 
-[TOC]
 Final project for OOP course, where we implement **STL allocator for P.J. STL, based on memory pool**.
 ### Source code
 In folder `myTest` is latest project built by VS 2017, feel free to do her.
